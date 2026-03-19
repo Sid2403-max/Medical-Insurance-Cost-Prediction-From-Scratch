@@ -15,4 +15,4 @@ This approach avoids iterative gradients and provides an exact analytical soluti
 
 ### 📊 Results
 * **R² Score:** 0.8653
-* **Mean Absolute Error (MAE):** [Insert your final MAE here]
+
